@@ -1,2 +1,2 @@
  # hBot 🤖
-# React ile geliştirilmiş basit bir chatbot uygulaması..
+ React ile geliştirilmiş basit bir chatbot uygulaması..
