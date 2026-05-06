@@ -9,7 +9,7 @@ import ActionProvider from "./chatbot/ActionProvider";
 function App() {
   return (
     <div>
-      <h2>H'nin Chatbotu .🤖</h2>
+      <h2>H'nin Chatbotu ..🤖</h2>
       <Chatbot
         config={config}
         messageParser={MessageParser}
