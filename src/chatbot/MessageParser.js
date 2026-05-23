@@ -5,7 +5,7 @@ class MessageParser {
 
   parse(message) {
     const lower = message.toLowerCase();
-    if (lower.includes("merhaba") || lower.includes("selam") || lower.includes("nasılsın") || lower.includes("naber")) {
+    if (lower.includes("merhaba") || lower.includes("selam") || lower.includes("naber")) {
       this.actionProvider.greet();
     }
   }
